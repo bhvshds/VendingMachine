@@ -1,0 +1,13 @@
+C:\Users\rahma\Source\Repos\2021-oefening-lesdag-1-MohammadRahmanzai\FrisdrankAutomaat\FrisdrankAutomaat\bin\Debug\FrisdrankAutomaat.exe.config
+C:\Users\rahma\Source\Repos\2021-oefening-lesdag-1-MohammadRahmanzai\FrisdrankAutomaat\FrisdrankAutomaat\bin\Debug\FrisdrankAutomaat.exe
+C:\Users\rahma\Source\Repos\2021-oefening-lesdag-1-MohammadRahmanzai\FrisdrankAutomaat\FrisdrankAutomaat\bin\Debug\FrisdrankAutomaat.pdb
+C:\Users\rahma\Source\Repos\2021-oefening-lesdag-1-MohammadRahmanzai\FrisdrankAutomaat\FrisdrankAutomaat\obj\Debug\FrisdrankAutomaat.csprojAssemblyReference.cache
+C:\Users\rahma\Source\Repos\2021-oefening-lesdag-1-MohammadRahmanzai\FrisdrankAutomaat\FrisdrankAutomaat\obj\Debug\FrisdrankAutomaat.csproj.CoreCompileInputs.cache
+C:\Users\rahma\Source\Repos\2021-oefening-lesdag-1-MohammadRahmanzai\FrisdrankAutomaat\FrisdrankAutomaat\obj\Debug\FrisdrankAutomaat.exe
+C:\Users\rahma\Source\Repos\2021-oefening-lesdag-1-MohammadRahmanzai\FrisdrankAutomaat\FrisdrankAutomaat\obj\Debug\FrisdrankAutomaat.pdb
+M:\Bhavesh\Tutor\C#\FrisdrankAutomaat\FrisdrankAutomaat\bin\Debug\FrisdrankAutomaat.exe.config
+M:\Bhavesh\Tutor\C#\FrisdrankAutomaat\FrisdrankAutomaat\bin\Debug\FrisdrankAutomaat.exe
+M:\Bhavesh\Tutor\C#\FrisdrankAutomaat\FrisdrankAutomaat\bin\Debug\FrisdrankAutomaat.pdb
+M:\Bhavesh\Tutor\C#\FrisdrankAutomaat\FrisdrankAutomaat\obj\Debug\FrisdrankAutomaat.csproj.CoreCompileInputs.cache
+M:\Bhavesh\Tutor\C#\FrisdrankAutomaat\FrisdrankAutomaat\obj\Debug\FrisdrankAutomaat.exe
+M:\Bhavesh\Tutor\C#\FrisdrankAutomaat\FrisdrankAutomaat\obj\Debug\FrisdrankAutomaat.pdb

@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TestRun id="5d262431-2952-41be-b1ef-c9e09253a6a2" name="mrunalini@DESKTOP-KJ1CJBO 2021-05-06 13:10:57" runUser="DESKTOP-KJ1CJBO\mrunalini" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <Times creation="2021-05-06T13:10:57.4098993+05:30" queuing="2021-05-06T13:10:57.4099003+05:30" start="2021-05-06T13:10:56.4544654+05:30" finish="2021-05-06T13:10:57.4572330+05:30" />
+  <TestSettings name="default" id="0cea73a4-5bdc-4b5d-93bb-491741c8562c">
+    <Deployment runDeploymentRoot="mrunalini_DESKTOP-KJ1CJBO_2021-05-06_13_10_57" />
+  </TestSettings>
+  <Results>
+    <UnitTestResult executionId="5134b28d-e7bd-4b5a-8de5-77a562fafa04" testId="d6da3e15-7a26-f3fe-4b37-e4dec6139ff0" testName="CheckBuy_When_InsertCoinsAreLessThanPrice" computerName="DESKTOP-KJ1CJBO" duration="00:00:00.0018520" startTime="2021-05-06T13:10:57.0000000+05:30" endTime="2021-05-06T13:10:57.0000000+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="5134b28d-e7bd-4b5a-8de5-77a562fafa04" />
+    <UnitTestResult executionId="e351bb40-74b0-46f9-8e07-4296d01d9513" testId="854257ec-6e69-f4d5-ec8a-b2a33617d7db" testName="CheckVendingMachineHasWhenNoDrinksProvided" computerName="DESKTOP-KJ1CJBO" duration="00:00:00.0128890" startTime="2021-05-06T13:10:57.0000000+05:30" endTime="2021-05-06T13:10:57.0000000+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e351bb40-74b0-46f9-8e07-4296d01d9513" />
+    <UnitTestResult executionId="e139a492-6366-45a6-ba0f-72401367bd24" testId="7993ddba-f5d0-8bdb-7dda-17593b213a59" testName="CheckRefund_When_NoPurchaseDone" computerName="DESKTOP-KJ1CJBO" duration="00:00:00.0003030" startTime="2021-05-06T13:10:57.0000000+05:30" endTime="2021-05-06T13:10:57.0000000+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e139a492-6366-45a6-ba0f-72401367bd24" />
+    <UnitTestResult executionId="0384c58c-d15b-42af-9d23-41376e2dfb92" testId="0df4c113-3734-f332-d12a-d01f2c12f60c" testName="CheckInsertCoin(TWOEURO)" computerName="DESKTOP-KJ1CJBO" duration="00:00:00.0001050" startTime="2021-05-06T13:10:57.0000000+05:30" endTime="2021-05-06T13:10:57.0000000+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="0384c58c-d15b-42af-9d23-41376e2dfb92" />
+    <UnitTestResult executionId="2b0a86d8-3291-4aee-bdcb-f1ac0ddd131b" testId="1585d623-f5ae-2d83-13a1-4d36069c6e9b" testName="CheckInsertCoin(TENCENTS)" computerName="DESKTOP-KJ1CJBO" duration="00:00:00.0000610" startTime="2021-05-06T13:10:57.0000000+05:30" endTime="2021-05-06T13:10:57.0000000+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="2b0a86d8-3291-4aee-bdcb-f1ac0ddd131b" />
+    <UnitTestResult executionId="7809652d-4d0c-447e-a599-44e9121c5c6b" testId="b53e0c07-9a1a-95dd-01d5-e95c3d9205b7" testName="CheckRefund_When_AtleastOnePurchaseDone" computerName="DESKTOP-KJ1CJBO" duration="00:00:00.0007150" startTime="2021-05-06T13:10:57.0000000+05:30" endTime="2021-05-06T13:10:57.0000000+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="7809652d-4d0c-447e-a599-44e9121c5c6b" />
+    <UnitTestResult executionId="0ee873c6-5394-4b4a-8a15-181bd3016a00" testId="1e145f5b-f3e7-6541-54c8-32c73b6c3795" testName="CheckInsertCoin(FIFTYCENTS)" computerName="DESKTOP-KJ1CJBO" duration="00:00:00.0000749" startTime="2021-05-06T13:10:57.0000000+05:30" endTime="2021-05-06T13:10:57.0000000+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="0ee873c6-5394-4b4a-8a15-181bd3016a00" />
+    <UnitTestResult executionId="5fbbf474-5d1b-4bfa-ba5b-95bf0fb139d7" testId="cf00a35a-2604-da33-ab8c-b97cc29d923b" testName="CheckAddDrink" computerName="DESKTOP-KJ1CJBO" duration="00:00:00.0075200" startTime="2021-05-06T13:10:57.0000000+05:30" endTime="2021-05-06T13:10:57.0000000+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="5fbbf474-5d1b-4bfa-ba5b-95bf0fb139d7" />
+    <UnitTestResult executionId="57e5b749-eab9-41a6-8e30-8365c8f077ca" testId="13955a92-53e5-57aa-8326-b5dd710516dc" testName="CheckBuy_When_WrongRowAndColumnNoProvided" computerName="DESKTOP-KJ1CJBO" duration="00:00:00.0004360" startTime="2021-05-06T13:10:57.0000000+05:30" endTime="2021-05-06T13:10:57.0000000+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="57e5b749-eab9-41a6-8e30-8365c8f077ca" />
+    <UnitTestResult executionId="94570bf4-ca47-447c-b893-49c6c5322c5e" testId="103a5aab-f775-2ef0-13b1-36e7c76bb043" testName="CheckVendingMachineHasAllDrinksPlaced" computerName="DESKTOP-KJ1CJBO" duration="00:00:00.0167000" startTime="2021-05-06T13:10:57.0000000+05:30" endTime="2021-05-06T13:10:57.0000000+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="94570bf4-ca47-447c-b893-49c6c5322c5e" />
+    <UnitTestResult executionId="b89fe5b8-d38e-4b8d-949b-266d449c9777" testId="fc5f0e5e-28c5-5b92-e4c0-b8264c9b5e59" testName="CheckBuy_Success_Transaction" computerName="DESKTOP-KJ1CJBO" duration="00:00:00.0002640" startTime="2021-05-06T13:10:57.0000000+05:30" endTime="2021-05-06T13:10:57.0000000+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b89fe5b8-d38e-4b8d-949b-266d449c9777" />
+    <UnitTestResult executionId="2f093c60-c234-4e3c-957a-64d1b7088e12" testId="47ed38f0-7932-57d3-f201-786ce9349d02" testName="CheckBuy_When_NoProductPresentAtRowAndColumnNumber" computerName="DESKTOP-KJ1CJBO" duration="00:00:00.0005220" startTime="2021-05-06T13:10:57.0000000+05:30" endTime="2021-05-06T13:10:57.0000000+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="2f093c60-c234-4e3c-957a-64d1b7088e12" />
+    <UnitTestResult executionId="43e0609c-0fc9-4519-9e0c-55105c4d63ca" testId="be21c68a-d005-e833-9985-66ed1b1d5757" testName="CheckInsertCoin(TWENTYCENTS)" computerName="DESKTOP-KJ1CJBO" duration="00:00:00.0000830" startTime="2021-05-06T13:10:57.0000000+05:30" endTime="2021-05-06T13:10:57.0000000+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="43e0609c-0fc9-4519-9e0c-55105c4d63ca" />
+    <UnitTestResult executionId="b7590374-27b5-42e1-9c77-119cf32f0c5d" testId="0d8495a9-75e7-d8d8-025f-c500c17bd469" testName="CheckInsertCoin(FIVECENTS)" computerName="DESKTOP-KJ1CJBO" duration="00:00:00.0000660" startTime="2021-05-06T13:10:57.0000000+05:30" endTime="2021-05-06T13:10:57.0000000+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b7590374-27b5-42e1-9c77-119cf32f0c5d" />
+    <UnitTestResult executionId="98c829a7-4d0b-4fff-b859-7dc29fd53896" testId="636dc8a9-ceae-e8e4-27f7-6629f86bcd46" testName="CheckInsertCoin(ONEEURO)" computerName="DESKTOP-KJ1CJBO" duration="00:00:00.0008580" startTime="2021-05-06T13:10:57.0000000+05:30" endTime="2021-05-06T13:10:57.0000000+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="98c829a7-4d0b-4fff-b859-7dc29fd53896" />
+  </Results>
+  <TestDefinitions>
+    <UnitTest name="CheckBuy_When_NoProductPresentAtRowAndColumnNumber" storage="m:\bhavesh\tutor\c#\frisdrankautomaat\frisdrankautomat.test\bin\debug\netcoreapp3.1\frisdrankautomat.test.dll" id="47ed38f0-7932-57d3-f201-786ce9349d02">
+      <Execution id="2f093c60-c234-4e3c-957a-64d1b7088e12" />
+      <TestMethod codeBase="M:\Bhavesh\Tutor\C#\FrisdrankAutomaat\FrisdrankAutomat.Test\bin\Debug\netcoreapp3.1\FrisdrankAutomat.Test.dll" adapterTypeName="executor://nunit3testexecutor/" className="FrisdrankAutomat.Test.VendingMachineTest" name="CheckBuy_When_NoProductPresentAtRowAndColumnNumber" />
+    </UnitTest>
+    <UnitTest name="CheckInsertCoin(TWENTYCENTS)" storage="m:\bhavesh\tutor\c#\frisdrankautomaat\frisdrankautomat.test\bin\debug\netcoreapp3.1\frisdrankautomat.test.dll" id="be21c68a-d005-e833-9985-66ed1b1d5757">
+      <Execution id="43e0609c-0fc9-4519-9e0c-55105c4d63ca" />
+      <TestMethod codeBase="M:\Bhavesh\Tutor\C#\FrisdrankAutomaat\FrisdrankAutomat.Test\bin\Debug\netcoreapp3.1\FrisdrankAutomat.Test.dll" adapterTypeName="executor://nunit3testexecutor/" className="FrisdrankAutomat.Test.VendingMachineTest" name="CheckInsertCoin(TWENTYCENTS)" />
+    </UnitTest>
+    <UnitTest name="CheckInsertCoin(FIVECENTS)" storage="m:\bhavesh\tutor\c#\frisdrankautomaat\frisdrankautomat.test\bin\debug\netcoreapp3.1\frisdrankautomat.test.dll" id="0d8495a9-75e7-d8d8-025f-c500c17bd469">
+      <Execution id="b7590374-27b5-42e1-9c77-119cf32f0c5d" />
+      <TestMethod codeBase="M:\Bhavesh\Tutor\C#\FrisdrankAutomaat\FrisdrankAutomat.Test\bin\Debug\netcoreapp3.1\FrisdrankAutomat.Test.dll" adapterTypeName="executor://nunit3testexecutor/" className="FrisdrankAutomat.Test.VendingMachineTest" name="CheckInsertCoin(FIVECENTS)" />
+    </UnitTest>
+    <UnitTest name="CheckBuy_Success_Transaction" storage="m:\bhavesh\tutor\c#\frisdrankautomaat\frisdrankautomat.test\bin\debug\netcoreapp3.1\frisdrankautomat.test.dll" id="fc5f0e5e-28c5-5b92-e4c0-b8264c9b5e59">
+      <Execution id="b89fe5b8-d38e-4b8d-949b-266d449c9777" />
+      <TestMethod codeBase="M:\Bhavesh\Tutor\C#\FrisdrankAutomaat\FrisdrankAutomat.Test\bin\Debug\netcoreapp3.1\FrisdrankAutomat.Test.dll" adapterTypeName="executor://nunit3testexecutor/" className="FrisdrankAutomat.Test.VendingMachineTest" name="CheckBuy_Success_Transaction" />
+    </UnitTest>
+    <UnitTest name="CheckInsertCoin(FIFTYCENTS)" storage="m:\bhavesh\tutor\c#\frisdrankautomaat\frisdrankautomat.test\bin\debug\netcoreapp3.1\frisdrankautomat.test.dll" id="1e145f5b-f3e7-6541-54c8-32c73b6c3795">
+      <Execution id="0ee873c6-5394-4b4a-8a15-181bd3016a00" />
+      <TestMethod codeBase="M:\Bhavesh\Tutor\C#\FrisdrankAutomaat\FrisdrankAutomat.Test\bin\Debug\netcoreapp3.1\FrisdrankAutomat.Test.dll" adapterTypeName="executor://nunit3testexecutor/" className="FrisdrankAutomat.Test.VendingMachineTest" name="CheckInsertCoin(FIFTYCENTS)" />
+    </UnitTest>
+    <UnitTest name="CheckRefund_When_NoPurchaseDone" storage="m:\bhavesh\tutor\c#\frisdrankautomaat\frisdrankautomat.test\bin\debug\netcoreapp3.1\frisdrankautomat.test.dll" id="7993ddba-f5d0-8bdb-7dda-17593b213a59">
+      <Execution id="e139a492-6366-45a6-ba0f-72401367bd24" />
+      <TestMethod codeBase="M:\Bhavesh\Tutor\C#\FrisdrankAutomaat\FrisdrankAutomat.Test\bin\Debug\netcoreapp3.1\FrisdrankAutomat.Test.dll" adapterTypeName="executor://nunit3testexecutor/" className="FrisdrankAutomat.Test.VendingMachineTest" name="CheckRefund_When_NoPurchaseDone" />
+    </UnitTest>
+    <UnitTest name="CheckVendingMachineHasAllDrinksPlaced" storage="m:\bhavesh\tutor\c#\frisdrankautomaat\frisdrankautomat.test\bin\debug\netcoreapp3.1\frisdrankautomat.test.dll" id="103a5aab-f775-2ef0-13b1-36e7c76bb043">
+      <Execution id="94570bf4-ca47-447c-b893-49c6c5322c5e" />
+      <TestMethod codeBase="M:\Bhavesh\Tutor\C#\FrisdrankAutomaat\FrisdrankAutomat.Test\bin\Debug\netcoreapp3.1\FrisdrankAutomat.Test.dll" adapterTypeName="executor://nunit3testexecutor/" className="FrisdrankAutomat.Test.VendingMachineTest" name="CheckVendingMachineHasAllDrinksPlaced" />
+    </UnitTest>
+    <UnitTest name="CheckInsertCoin(ONEEURO)" storage="m:\bhavesh\tutor\c#\frisdrankautomaat\frisdrankautomat.test\bin\debug\netcoreapp3.1\frisdrankautomat.test.dll" id="636dc8a9-ceae-e8e4-27f7-6629f86bcd46">
+      <Execution id="98c829a7-4d0b-4fff-b859-7dc29fd53896" />
+      <TestMethod codeBase="M:\Bhavesh\Tutor\C#\FrisdrankAutomaat\FrisdrankAutomat.Test\bin\Debug\netcoreapp3.1\FrisdrankAutomat.Test.dll" adapterTypeName="executor://nunit3testexecutor/" className="FrisdrankAutomat.Test.VendingMachineTest" name="CheckInsertCoin(ONEEURO)" />
+    </UnitTest>
+    <UnitTest name="CheckVendingMachineHasWhenNoDrinksProvided" storage="m:\bhavesh\tutor\c#\frisdrankautomaat\frisdrankautomat.test\bin\debug\netcoreapp3.1\frisdrankautomat.test.dll" id="854257ec-6e69-f4d5-ec8a-b2a33617d7db">
+      <Execution id="e351bb40-74b0-46f9-8e07-4296d01d9513" />
+      <TestMethod codeBase="M:\Bhavesh\Tutor\C#\FrisdrankAutomaat\FrisdrankAutomat.Test\bin\Debug\netcoreapp3.1\FrisdrankAutomat.Test.dll" adapterTypeName="executor://nunit3testexecutor/" className="FrisdrankAutomat.Test.VendingMachineTest" name="CheckVendingMachineHasWhenNoDrinksProvided" />
+    </UnitTest>
+    <UnitTest name="CheckBuy_When_InsertCoinsAreLessThanPrice" storage="m:\bhavesh\tutor\c#\frisdrankautomaat\frisdrankautomat.test\bin\debug\netcoreapp3.1\frisdrankautomat.test.dll" id="d6da3e15-7a26-f3fe-4b37-e4dec6139ff0">
+      <Execution id="5134b28d-e7bd-4b5a-8de5-77a562fafa04" />
+      <TestMethod codeBase="M:\Bhavesh\Tutor\C#\FrisdrankAutomaat\FrisdrankAutomat.Test\bin\Debug\netcoreapp3.1\FrisdrankAutomat.Test.dll" adapterTypeName="executor://nunit3testexecutor/" className="FrisdrankAutomat.Test.VendingMachineTest" name="CheckBuy_When_InsertCoinsAreLessThanPrice" />
+    </UnitTest>
+    <UnitTest name="CheckRefund_When_AtleastOnePurchaseDone" storage="m:\bhavesh\tutor\c#\frisdrankautomaat\frisdrankautomat.test\bin\debug\netcoreapp3.1\frisdrankautomat.test.dll" id="b53e0c07-9a1a-95dd-01d5-e95c3d9205b7">
+      <Execution id="7809652d-4d0c-447e-a599-44e9121c5c6b" />
+      <TestMethod codeBase="M:\Bhavesh\Tutor\C#\FrisdrankAutomaat\FrisdrankAutomat.Test\bin\Debug\netcoreapp3.1\FrisdrankAutomat.Test.dll" adapterTypeName="executor://nunit3testexecutor/" className="FrisdrankAutomat.Test.VendingMachineTest" name="CheckRefund_When_AtleastOnePurchaseDone" />
+    </UnitTest>
+    <UnitTest name="CheckBuy_When_WrongRowAndColumnNoProvided" storage="m:\bhavesh\tutor\c#\frisdrankautomaat\frisdrankautomat.test\bin\debug\netcoreapp3.1\frisdrankautomat.test.dll" id="13955a92-53e5-57aa-8326-b5dd710516dc">
+      <Execution id="57e5b749-eab9-41a6-8e30-8365c8f077ca" />
+      <TestMethod codeBase="M:\Bhavesh\Tutor\C#\FrisdrankAutomaat\FrisdrankAutomat.Test\bin\Debug\netcoreapp3.1\FrisdrankAutomat.Test.dll" adapterTypeName="executor://nunit3testexecutor/" className="FrisdrankAutomat.Test.VendingMachineTest" name="CheckBuy_When_WrongRowAndColumnNoProvided" />
+    </UnitTest>
+    <UnitTest name="CheckAddDrink" storage="m:\bhavesh\tutor\c#\frisdrankautomaat\frisdrankautomat.test\bin\debug\netcoreapp3.1\frisdrankautomat.test.dll" id="cf00a35a-2604-da33-ab8c-b97cc29d923b">
+      <Execution id="5fbbf474-5d1b-4bfa-ba5b-95bf0fb139d7" />
+      <TestMethod codeBase="M:\Bhavesh\Tutor\C#\FrisdrankAutomaat\FrisdrankAutomat.Test\bin\Debug\netcoreapp3.1\FrisdrankAutomat.Test.dll" adapterTypeName="executor://nunit3testexecutor/" className="FrisdrankAutomat.Test.VendingMachineTest" name="CheckAddDrink" />
+    </UnitTest>
+    <UnitTest name="CheckInsertCoin(TENCENTS)" storage="m:\bhavesh\tutor\c#\frisdrankautomaat\frisdrankautomat.test\bin\debug\netcoreapp3.1\frisdrankautomat.test.dll" id="1585d623-f5ae-2d83-13a1-4d36069c6e9b">
+      <Execution id="2b0a86d8-3291-4aee-bdcb-f1ac0ddd131b" />
+      <TestMethod codeBase="M:\Bhavesh\Tutor\C#\FrisdrankAutomaat\FrisdrankAutomat.Test\bin\Debug\netcoreapp3.1\FrisdrankAutomat.Test.dll" adapterTypeName="executor://nunit3testexecutor/" className="FrisdrankAutomat.Test.VendingMachineTest" name="CheckInsertCoin(TENCENTS)" />
+    </UnitTest>
+    <UnitTest name="CheckInsertCoin(TWOEURO)" storage="m:\bhavesh\tutor\c#\frisdrankautomaat\frisdrankautomat.test\bin\debug\netcoreapp3.1\frisdrankautomat.test.dll" id="0df4c113-3734-f332-d12a-d01f2c12f60c">
+      <Execution id="0384c58c-d15b-42af-9d23-41376e2dfb92" />
+      <TestMethod codeBase="M:\Bhavesh\Tutor\C#\FrisdrankAutomaat\FrisdrankAutomat.Test\bin\Debug\netcoreapp3.1\FrisdrankAutomat.Test.dll" adapterTypeName="executor://nunit3testexecutor/" className="FrisdrankAutomat.Test.VendingMachineTest" name="CheckInsertCoin(TWOEURO)" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestEntries>
+    <TestEntry testId="d6da3e15-7a26-f3fe-4b37-e4dec6139ff0" executionId="5134b28d-e7bd-4b5a-8de5-77a562fafa04" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="854257ec-6e69-f4d5-ec8a-b2a33617d7db" executionId="e351bb40-74b0-46f9-8e07-4296d01d9513" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="7993ddba-f5d0-8bdb-7dda-17593b213a59" executionId="e139a492-6366-45a6-ba0f-72401367bd24" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="0df4c113-3734-f332-d12a-d01f2c12f60c" executionId="0384c58c-d15b-42af-9d23-41376e2dfb92" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="1585d623-f5ae-2d83-13a1-4d36069c6e9b" executionId="2b0a86d8-3291-4aee-bdcb-f1ac0ddd131b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="b53e0c07-9a1a-95dd-01d5-e95c3d9205b7" executionId="7809652d-4d0c-447e-a599-44e9121c5c6b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="1e145f5b-f3e7-6541-54c8-32c73b6c3795" executionId="0ee873c6-5394-4b4a-8a15-181bd3016a00" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="cf00a35a-2604-da33-ab8c-b97cc29d923b" executionId="5fbbf474-5d1b-4bfa-ba5b-95bf0fb139d7" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="13955a92-53e5-57aa-8326-b5dd710516dc" executionId="57e5b749-eab9-41a6-8e30-8365c8f077ca" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="103a5aab-f775-2ef0-13b1-36e7c76bb043" executionId="94570bf4-ca47-447c-b893-49c6c5322c5e" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="fc5f0e5e-28c5-5b92-e4c0-b8264c9b5e59" executionId="b89fe5b8-d38e-4b8d-949b-266d449c9777" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="47ed38f0-7932-57d3-f201-786ce9349d02" executionId="2f093c60-c234-4e3c-957a-64d1b7088e12" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="be21c68a-d005-e833-9985-66ed1b1d5757" executionId="43e0609c-0fc9-4519-9e0c-55105c4d63ca" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="0d8495a9-75e7-d8d8-025f-c500c17bd469" executionId="b7590374-27b5-42e1-9c77-119cf32f0c5d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="636dc8a9-ceae-e8e4-27f7-6629f86bcd46" executionId="98c829a7-4d0b-4fff-b859-7dc29fd53896" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <ResultSummary outcome="Completed">
+    <Counters total="15" executed="15" passed="15" failed="0" error="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+    <Output>
+      <StdOut>NUnit Adapter 3.16.1.0: Test execution started&#xD;
+Running all tests in M:\Bhavesh\Tutor\C#\FrisdrankAutomaat\FrisdrankAutomat.Test\bin\Debug\netcoreapp3.1\FrisdrankAutomat.Test.dll&#xD;
+   NUnit3TestExecutor converted 15 of 15 NUnit test cases&#xD;
+NUnit Adapter 3.16.1.0: Test execution complete&#xD;
+</StdOut>
+    </Output>
+  </ResultSummary>
+</TestRun>
